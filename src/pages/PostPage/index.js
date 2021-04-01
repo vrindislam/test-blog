@@ -1,5 +1,5 @@
 import { useParams } from 'react-router-dom'
-import { Layout, Button, Modal, Divider } from 'antd';
+import { Layout, Button, Modal } from 'antd';
 import Ajax from '../../services/Ajax'
 import { useEffect, useState } from 'react';
 import CommentContainer from '../../components/CommentContainer'
