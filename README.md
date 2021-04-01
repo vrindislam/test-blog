@@ -1,3 +1,3 @@
 
-Available on gh-pahes [Create React App](https://github.com/facebook/create-react-app).
+Available on gh-pahes [Blog](https://github.com/vrindislam/test-blog).
 To run the project - npm start
